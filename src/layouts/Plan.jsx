@@ -1,7 +1,7 @@
 import React from 'react'
 import Container  from '../components/Container'
 import Heading  from '../components/Heading'
-import PlanCard from '../components/PlanCard'
+import PlanCard from '../components/Plancard'
 
 const Plan = () => {
   return (
